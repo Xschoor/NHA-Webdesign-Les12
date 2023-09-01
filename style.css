@@ -1,0 +1,65 @@
+header {
+background-color : #4CAF50;
+color : white;
+font-size : 30px;
+text-align : center;
+padding : 10px;
+}
+
+footer {
+background-color : #2574cf;
+color : black;
+font-size : 20px;
+text-align : center;
+padding : 10px;
+}
+
+table {
+border-collapse : collapse;
+width : 100%;
+}
+
+td {
+border : black solid 1px;
+padding : 15px;
+}
+
+td:nth-child(odd) {
+background-color : #f2f2f2;
+}
+
+td:nth-child(even) {
+background-color : #e6e6e6;
+}
+
+#cell1 {
+background-color: lightblue;
+}
+
+#cell3 {
+background-color: lightgreen;
+}
+
+#cell5 {
+background-color: lightpink;
+}
+
+#cell7 {
+background-color: lightyellow;
+}
+
+#cell9 {
+background-color: lightsalmon;
+}
+
+#cell11 {
+background-color: lightgray;
+}
+
+#cell13 {
+background-color: lightcoral;
+}
+
+#cell15 {
+background-color: lightseagreen;
+}
